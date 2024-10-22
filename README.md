@@ -7,7 +7,7 @@ as "madam" or "racecar", the date "22/02/2022" and the sentence: "A man, a plan,
 
 ### How to use this program
 
-The singe-line code is utilize the power of `Bash` shell scripting language and GNU `make` utility to execute it.
+The single-line code program uses the power of `Bash` shell scripting language and GNU `make` utility to execute it.
 
 You need Unix/Linux execution environment with installed `Bash` command language interpreter and  `make` command line 
 tool to run this program as following:
@@ -29,10 +29,10 @@ $ make check
 
 ### The idea behind the code
 
-This tiny fictional story *"What if Bash were Java or how to have a `SymbolSequence` value object with two methods 
+This tiny fictional story *"What if Bash was Java or how to have a `SymbolSequence` value object with two methods 
 `isPalindrome` and `toString`"*.
 
-For the readability purpose the formatted version of the code is added as well. To read it run the next command:
+A formatted version has been added as well to make this story more readable. To read it please run command:
 
 ```bash
 $ cat Makefile.formatted
